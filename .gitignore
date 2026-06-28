@@ -1,0 +1,8 @@
+# Data files (if sensitive or large)
+*.csv
+*.xlsx
+*.xls
+
+# Non Deliverables and specific files
+Problem Statement.docx
+*.pdf
